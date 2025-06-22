@@ -1,0 +1,14 @@
+C:\Users\KIIT\Desktop\Cognizant\HandsOn_Sols\FinancialForecastingFunction\FinancialForecastingFunction\bin\Debug\net8.0\FinancialForecastingFunction.exe
+C:\Users\KIIT\Desktop\Cognizant\HandsOn_Sols\FinancialForecastingFunction\FinancialForecastingFunction\bin\Debug\net8.0\FinancialForecastingFunction.deps.json
+C:\Users\KIIT\Desktop\Cognizant\HandsOn_Sols\FinancialForecastingFunction\FinancialForecastingFunction\bin\Debug\net8.0\FinancialForecastingFunction.runtimeconfig.json
+C:\Users\KIIT\Desktop\Cognizant\HandsOn_Sols\FinancialForecastingFunction\FinancialForecastingFunction\bin\Debug\net8.0\FinancialForecastingFunction.dll
+C:\Users\KIIT\Desktop\Cognizant\HandsOn_Sols\FinancialForecastingFunction\FinancialForecastingFunction\bin\Debug\net8.0\FinancialForecastingFunction.pdb
+C:\Users\KIIT\Desktop\Cognizant\HandsOn_Sols\FinancialForecastingFunction\FinancialForecastingFunction\obj\Debug\net8.0\FinancialForecastingFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Desktop\Cognizant\HandsOn_Sols\FinancialForecastingFunction\FinancialForecastingFunction\obj\Debug\net8.0\FinancialForecastingFunction.AssemblyInfoInputs.cache
+C:\Users\KIIT\Desktop\Cognizant\HandsOn_Sols\FinancialForecastingFunction\FinancialForecastingFunction\obj\Debug\net8.0\FinancialForecastingFunction.AssemblyInfo.cs
+C:\Users\KIIT\Desktop\Cognizant\HandsOn_Sols\FinancialForecastingFunction\FinancialForecastingFunction\obj\Debug\net8.0\FinancialForecastingFunction.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\Cognizant\HandsOn_Sols\FinancialForecastingFunction\FinancialForecastingFunction\obj\Debug\net8.0\FinancialForecastingFunction.dll
+C:\Users\KIIT\Desktop\Cognizant\HandsOn_Sols\FinancialForecastingFunction\FinancialForecastingFunction\obj\Debug\net8.0\refint\FinancialForecastingFunction.dll
+C:\Users\KIIT\Desktop\Cognizant\HandsOn_Sols\FinancialForecastingFunction\FinancialForecastingFunction\obj\Debug\net8.0\FinancialForecastingFunction.pdb
+C:\Users\KIIT\Desktop\Cognizant\HandsOn_Sols\FinancialForecastingFunction\FinancialForecastingFunction\obj\Debug\net8.0\FinancialForecastingFunction.genruntimeconfig.cache
+C:\Users\KIIT\Desktop\Cognizant\HandsOn_Sols\FinancialForecastingFunction\FinancialForecastingFunction\obj\Debug\net8.0\ref\FinancialForecastingFunction.dll
